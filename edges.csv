@@ -1,0 +1,88 @@
+node1,node2,length,type
+Flensburg,Tarp,14,autobahn
+Tarp,Schleswig,20,autobahn
+Schleswig,Buedelsdorf,27,autobahn
+Buedelsdorf,Nortorf,21,autobahn
+Nortorf,Neumuenster,14,autobahn
+Neumuenster,Bad Bramstedt,20,autobahn
+Kaltenkirchen,Bad Bramstedt,9,autobahn
+Kaltenkirchen,Hamburg,30,autobahn
+Buedelsdorf,Kiel,33,autobahn
+Kiel,Neumuenster,31,autobahn
+Hamburg,Pinneberg,14,autobahn
+Elmshorn,Pinneberg,14,autobahn
+Elmshorn,Itzehoe,21,autobahn
+Itzehoe,Hanerau-Hademarschen,31,autobahn
+Heide,Hanerau-Hademarschen,16,autobahn
+Hamburg,Ahrensburg,25,autobahn
+Bargteheide,Ahrensburg,6,autobahn
+Bargteheide,Bad Oldesloe,12,autobahn
+Luebeck,Bad Oldesloe,24,autobahn
+Bargteheide,Wahlstedt,27,autobahn
+Luebeck,Wahlstedt,32,autobahn
+Luebeck,Wismar,55,autobahn
+Luebeck,Neustadt,29,autobahn
+Heiligenhafen,Neustadt,38,autobahn
+Kiel,Schoenberg,21,normal
+Niebuell,Flensburg,40,normal
+Kappeln,Suederbrarup,13,normal
+Boeklund,Suederbrarup,14,normal
+Boeklund,Schleswig,10,normal
+Schleswig,Husum,35,normal
+Bredstedt,Husum,18,normal
+Bredstedt,Niebuell,23,normal
+Friedrichstadt,Husum,13,normal
+Friedrichstadt,Toenning,12,normal
+Wesselburen,Toenning,13,normal
+Wesselburen,Heide,13,normal
+Buesum,Heide,19,normal
+Melsdorf,Heide,13,normal
+Melsdorf,Marne,17,normal
+Brunsbuettel,Marne,12,normal
+Brunsbuettel,Glueckstadt,22,normal
+Husum,Flensburg,44,normal
+Schleswig,Eckernfoerde,22,normal
+Friedrichstadt,Buedelsdorf,44,normal
+Heide,Buedelsdorf,44,normal
+Hanerau-Hademarschen,Hohenweststedt,26,normal
+Neumuenster,Hohenweststedt,23,normal
+Itzehoe,Kellinghusen,15,normal
+Bad Bramstedt,Kellinghusen,16,normal
+Bad Bramstedt,Wahlstedt,25,normal
+Ahrensboek,Wahlstedt,22,normal
+Ahrensboek,Neustadt,19,normal
+Ploen,Neustadt,27,normal
+Ploen,Preetz,13,normal
+Kiel,Preetz,14,normal
+Kiel,Luetjenburg,34,normal
+Schoenberg,Luetjenburg,19,normal
+Ploen,Neumuenster,33,normal
+Kappeln,Eckernfoerde,25,normal
+Gettorf,Eckernfoerde,14,normal
+Gettorf,Kiel,16,normal
+Buedelsdorf,Hohenweststedt,27,normal
+Glueckstadt,Elmshorn,18,normal
+Wedel,Elmshorn,22,normal
+Hamburg,Wahlstedt,50,normal
+Neumuenster,Ploen,33,normal
+Luetjenburg,Ploen,21,normal
+Bad Oldesloe,Ratzeburg,29,normal
+Heiligenhafen,Luetjenburg,32,normal
+Luebeck,Ratzeburg,20,normal
+Itzehoe,Hohenweststedt,24,normal
+Wahlstedt,Kiel,46,normal
+Schleswig,Tarp,20,normal
+Tarp,Flensburg,14,normal
+Schleswig,Buedelsdorf,27,normal
+Eckernfoerde,Buedelsdorf,23,normal
+Melsdorf,Hanerau-Hademarschen,16,normal
+Bad Bramstedt,Hamburg,40,normal
+Bargteheide,Hamburg,30,normal
+Bargteheide,Bad Oldesloe,12,normal
+Luebeck,Bad Oldesloe,24,normal
+Luebeck,Neustadt,29,normal
+Heiligenhafen,Neustadt,38,normal
+Husby,Flensburg,13,normal
+Soerup,Flensburg,21,normal
+Soerup,Kappeln,22,normal
+Moelln,Ratzeburg,9,normal

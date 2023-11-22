@@ -1,0 +1,81 @@
+node1,node2,length,type,speed,consumption
+Flensburg,Tarp,14,autobahn,130,9
+Tarp,Schleswig,20,autobahn,130,9
+Schleswig,Buedelsdorf,27,autobahn,130,9
+Buedelsdorf,Nortorf,21,autobahn,130,9
+Nortorf,Neumuenster,14,autobahn,130,9
+Neumuenster,Bad Bramstedt,20,autobahn,130,9
+Kaltenkirchen,Bad Bramstedt,9,autobahn,130,9
+Kaltenkirchen,Hamburg,30,autobahn,130,9
+Buedelsdorf,Kiel,33,autobahn,130,9
+Kiel,Neumuenster,31,autobahn,130,9
+Hamburg,Pinneberg,14,autobahn,130,9
+Elmshorn,Pinneberg,14,autobahn,130,9
+Elmshorn,Itzehoe,21,autobahn,130,9
+Itzehoe,Hanerau-Hademarschen,31,autobahn,130,9
+Heide,Hanerau-Hademarschen,16,autobahn,130,9
+Hamburg,Ahrensburg,25,autobahn,130,9
+Bargteheide,Ahrensburg,6,autobahn,130,9
+Bargteheide,Bad Oldesloe,12,autobahn,130,9
+Luebeck,Bad Oldesloe,24,autobahn,130,9
+Bargteheide,Wahlstedt,27,autobahn,130,9
+Luebeck,Wahlstedt,32,autobahn,130,9
+Luebeck,Wismar,55,autobahn,130,9
+Luebeck,Neustadt,29,autobahn,130,9
+Heiligenhafen,Neustadt,38,autobahn,130,9
+Kiel,Schoenberg,21,normal,70,7
+Niebuell,Flensburg,40,normal,70,7
+Kappeln,Suederbrarup,13,normal,70,7
+Boeklund,Suederbrarup,14,normal,70,7
+Boeklund,Schleswig,10,normal,70,7
+Schleswig,Husum,35,normal,70,7
+Bredstedt,Husum,18,normal,70,7
+Bredstedt,Niebuell,23,normal,70,7
+Friedrichstadt,Husum,13,normal,70,7
+Friedrichstadt,Toenning,12,normal,70,7
+Wesselburen,Toenning,13,normal,70,7
+Wesselburen,Heide,13,normal,70,7
+Buesum,Heide,19,normal,70,7
+Melsdorf,Heide,13,normal,70,7
+Melsdorf,Marne,17,normal,70,7
+Brunsbuettel,Marne,12,normal,70,7
+Brunsbuettel,Glueckstadt,22,normal,70,7
+Husum,Flensburg,44,normal,70,7
+Schleswig,Eckernfoerde,22,normal,70,7
+Friedrichstadt,Buedelsdorf,44,normal,70,7
+Heide,Buedelsdorf,44,normal,70,7
+Hanerau-Hademarschen,Hohenweststedt,26,normal,70,7
+Neumuenster,Hohenweststedt,23,normal,70,7
+Itzehoe,Kellinghusen,15,normal,70,7
+Bad Bramstedt,Kellinghusen,16,normal,70,7
+Bad Bramstedt,Wahlstedt,25,normal,70,7
+Ahrensboek,Wahlstedt,22,normal,70,7
+Ahrensboek,Neustadt,19,normal,70,7
+Ploen,Neustadt,27,normal,70,7
+Ploen,Preetz,13,normal,70,7
+Kiel,Preetz,14,normal,70,7
+Kiel,Luetjenburg,34,normal,70,7
+Schoenberg,Luetjenburg,19,normal,70,7
+Ploen,Neumuenster,33,normal,70,7
+Kappeln,Eckernfoerde,25,normal,70,7
+Gettorf,Eckernfoerde,14,normal,70,7
+Gettorf,Kiel,16,normal,70,7
+Buedelsdorf,Hohenweststedt,27,normal,70,7
+Glueckstadt,Elmshorn,18,normal,70,7
+Wedel,Elmshorn,22,normal,70,7
+Hamburg,Wahlstedt,50,normal,70,7
+Neumuenster,Ploen,33,normal,70,7
+Luetjenburg,Ploen,21,normal,70,7
+Bad Oldesloe,Ratzeburg,29,normal,70,7
+Heiligenhafen,Luetjenburg,32,normal,70,7
+Luebeck,Ratzeburg,20,normal,70,7
+Itzehoe,Hohenweststedt,24,normal,70,7
+Wahlstedt,Kiel,46,normal,70,7
+Eckernfoerde,Buedelsdorf,23,normal,70,7
+Melsdorf,Hanerau-Hademarschen,16,normal,70,7
+Bad Bramstedt,Hamburg,40,normal,70,7
+Bargteheide,Hamburg,30,normal,70,7
+Husby,Flensburg,13,normal,70,7
+Soerup,Flensburg,21,normal,70,7
+Soerup,Kappeln,22,normal,70,7
+Moelln,Ratzeburg,9,normal,70,7
